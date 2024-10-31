@@ -1,2 +1,2 @@
 # practice-my
-this is the practice for git
+this is the practice for git.
